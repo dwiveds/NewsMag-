@@ -31,6 +31,8 @@ const Navbar = ({setCategory}) => {
         </li>
        
       </ul>
+
+
     </div>
   </div>
 </nav>
